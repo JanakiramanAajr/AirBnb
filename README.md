@@ -40,15 +40,3 @@ The dataset used for this project is hosted on MongoDB Atlas. It includes collec
    
 8. **Dashboard Creation:** Utilize Power BI or Tableau to create comprehensive dashboards combining various visualizations to present key insights from the analysis.
 
-## Evaluation Metrics
-
-- Modular code development
-- Maintainability and portability
-- Code maintenance on GitHub repository
-- Proper README documentation with project setup and execution instructions
-- Adherence to coding standards (PEP 8)
-- Creation of a demo/presentation video shared on LinkedIn
-
-## Getting Started
-
-1. Clone the repository:
